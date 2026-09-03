@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(236, 246, 168);
+
+}
+
+#cabecalho{
+    background-color: rgb(127, 143, 55);
+    color:rgb(4, 4, 20);
+    text-align:center;
+}
+
+#conteudo{
+    width: 700px;
+    background-color: hsl(75, 76%, 81%);
+    margin: 0px auto;
+    border: 5px solid black;
+
+}
+img{
+    margin: 50px auto;
+    display: block; 
+    width: 550px;
+}
+#descriçao{
+    margin: 20px 0;
+}
+
+.card{
+    border: 1px solid black;
+    background-color: #908c42;
+    width: 500px;
+    border-radius: 15px;
+    margin: 0px auto;
+    margin-bottom: 15px;
+    padding: 15px;
+}
+a{
+    background-color: #777d4c;
+    color:rgb(5, 2, 5);
+    padding: 12px 20px;
+    border-radius:10 px ;
+    display:block;
+    margin-top: 15px;
+    width:200px;
+    text-align: center;
+    margin:0px auto;
+    margin-top:15px;
+
+}
